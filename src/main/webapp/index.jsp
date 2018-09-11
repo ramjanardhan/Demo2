@@ -5,12 +5,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Welcome Page</title>
+        <title>Tutorial for CI/CD</title>
     </head>
     <body>
         <div>
-            <h3>Welcome to jenkins world</h3>
-            
+            <h3>Welcome to jenkins</h3>
         </div>
     </body>
 </html>
